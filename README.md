@@ -1,4 +1,4 @@
-Spring.Net 简单入门学习
+Spring.Net 简单入门学习 IOC
 
 https://www.cnblogs.com/han1982/p/4177850.html
 

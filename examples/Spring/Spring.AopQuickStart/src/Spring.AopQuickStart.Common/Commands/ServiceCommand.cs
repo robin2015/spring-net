@@ -1,7 +1,7 @@
 #region License
 
 /*
- * Copyright © 2002-2006 the original author or authors.
+ * Copyright ?2002-2006 the original author or authors.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -44,6 +44,7 @@ namespace Spring.AopQuickStart.Commands
         public void Execute()
         {
             Console.Out.WriteLine("--- ServiceCommand implementation : Execute()... ---");
+            throw new NotImplementedException("NotImplementedException 123");
         }
 
         public void UnExecute()
